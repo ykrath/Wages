@@ -1,7 +1,7 @@
 /*
- * Author: Yo Seop Kim
- * Date: November 7th 2018
- * Description: Calculate the wages
+Author: Yo Seop Kim
+Date: November 7th 2018
+Description: This program calculates wages for a single employee using hours and hourly rate.             
  */
 
 #include <iostream>
